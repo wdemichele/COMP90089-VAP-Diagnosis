@@ -1,5 +1,4 @@
 # Diagnosing Ventilator-Associated Pneumonia: A Machine Learning Approach with MIMIC-IV Data
----
 COMP90089 - Group 3, Semester 2, 2023
 - William De Michele
 - Mohit Rudraraju Suresh
