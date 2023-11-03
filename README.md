@@ -21,7 +21,6 @@ Explore data related to Central Line-Associated Bloodstream Infections (CLABSIs)
 - [Extract_Patients](https://github.com/wdemichele/COMP90089-Group-Project/blob/main/Extract_Patients.ipynb) - Extract HAI positive patients (VAP)
 ### Data processing
 End-to-End Data Processing with Data Preprocessing, Model Building, and Model Evaluation
-These two models have same data preprocessing and same feature importan
 - [HAI_Supervised_Learning](https://github.com/wdemichele/COMP90089-Group-Project/blob/main/HAI_Supervised_Learning.ipynb) - Neural Model
     - Handles complex structured data, optimized parameters using grid search, and utilizes adaptive learning rates with Adam optimizer
 - [HAI_Supervised_Learning_Classical](https://github.com/wdemichele/COMP90089-Group-Project/blob/main/HAI_Supervised_Learning_Classical.ipynb) - Classical Model (Naive Bayes, SVM, RFC)
