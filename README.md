@@ -15,7 +15,6 @@ Explore data related to Central Line-Associated Bloodstream Infections (CLABSIs)
 - [ML_Health_NLP_explore](https://github.com/wdemichele/COMP90089-Group-Project/blob/main/ML_Health_NLP_explore%20.ipynb) - Discover patients with HAIs (CAUTI, CLABSI, VAP) using ICD codes and NLP
 - [Recent_Surgery](https://github.com/wdemichele/COMP90089-Group-Project/blob/main/Recent_Surgery.ipynb) - Surgery records related to with HAIs (CAUTI, CLABSI, VAP)
 - [Vital_Signs](https://github.com/wdemichele/COMP90089-Group-Project/blob/main/Vital_Signs.ipynb) - Statistical data on vital signs related to HAI-positive patients
-- [Catheter_associated_urinary_tract_infections_(CAUTIs)](https://github.com/wdemichele/COMP90089-Group-Project/blob/main/Catheter_associated_urinary_tract_infections_(CAUTIs).ipynb) - Overall preparation of CAUTIs data processing
 - [ventilation](https://github.com/wdemichele/COMP90089-Group-Project/blob/main/ventilation.ipynb) - Records of treatments involving invasive devices
 - [HAI_Basic_Info](https://github.com/wdemichele/COMP90089-Group-Project/blob/main/HAI_Basic_Info.ipynb) - Basic infomation could related to HAIs
 - [Extract_Patients](https://github.com/wdemichele/COMP90089-Group-Project/blob/main/Extract_Patients.ipynb) - Extract HAI positive patients (VAP)
@@ -32,8 +31,6 @@ Collected from MIMIC-IV databases
     - Compute statistical summaries for numeric features (mean, Q1, Q2, Q3, standard deviation, variance, min, max) to capture feature distributions
     - Analyze patient vital signs, measuring duration and episodes above/below normal conditions
     - Calculate ventilator duration, capturing the time between start and stop procedure times
-- [hai_positive_patients_vital_signs](https://github.com/wdemichele/COMP90089-Group-Project/blob/main/vital_signs_df/hai_positive_patients_vital_signs.csv)
-- [urinary_catheter_patients_vital_signs](https://github.com/wdemichele/COMP90089-Group-Project/blob/main/vital_signs_df/urinary_catheter_patients_vital_signs.csv)
 
 ## Resources
 MIMIC-IV docs: [link](https://mimic.mit.edu/docs/iv/)
